@@ -75,7 +75,7 @@ public:
                          "Praesent cursus ultrices justo, ut feugiat ante vehicula quis.\n"
                          "Donec fringilla scelerisque mauris et viverra.\n"
                          "Maecenas adipiscing ornare scelerisque. Nullam at libero elit.\n"
-                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n"
+                         "Pellentesque habitant.\n"
                          "Nullam leo urna, tincidunt id semper eget, ultricies sed mi.\n"
                          "Morbi mauris massa, commodo id dignissim vel, lobortis et elit.\n"
                          "Fusce vel libero sed neque scelerisque venenatis.\n"
